@@ -24,8 +24,7 @@ El repositorio de GitHub servirá como referencia central de control.
 
 
 
-===================================================================
-========================= ACTUALIZACIONES =========================
+ACTUALIZACIONES: 
 
 21-10-2025: Creación de entorno de trabajo (Oracle 12c).
 21-10-2025: Creación de script de configuración de bbdd: 
@@ -33,9 +32,7 @@ El repositorio de GitHub servirá como referencia central de control.
 26-10-2025: Creación de documentación de la síntesis de proyecto y varios:
 	    /Proyecto_Gestion_Bancaria_y_Antifraude.pdf
 	    /sql/docs/config_BBDD.pdf
-
-===================================================================
-===================================================================
+		
 
 
 Autor: Joaquín Manuel Alpañez López
