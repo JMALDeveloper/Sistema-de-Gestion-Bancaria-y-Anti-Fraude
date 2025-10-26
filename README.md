@@ -75,7 +75,7 @@ Cada versión incluirá las rutas de los nuevos ficheros y una descripción de l
 
 ---
 
-> 💡 *Este proyecto forma parte de un entorno de desarrollo y pruebas con orientación profesional hacia sistemas bancarios y antifraude basados en NetReveal y tecnologías de análisis de datos.*
+> 💡 *Este proyecto forma parte de un entorno de desarrollo y pruebas con orientación profesional hacia sistemas bancarios y antifraude con tecnologías de análisis de datos.*
 
 
 
