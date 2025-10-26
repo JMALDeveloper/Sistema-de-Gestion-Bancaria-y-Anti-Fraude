@@ -1,43 +1,81 @@
-# Sistema-de-Gestion-Bancaria-y-Anti-Fraude
-Este proyecto tiene como objetivo el desarrollo de un entorno de gestión bancaria con módulos antifraude, 
-simulando las arquitecturas y configuraciones empleadas en entornos financieros profesionales. El sistema está orientado a Big Data, aunque se ejecuta en un entorno de pruebas reducido.
-El entorno integra gestión de usuarios, auditoría, políticas de seguridad y una estructura base para sistemas modularizados con WLM, CDD/KYC y AML. 
-Se busca ofrecer una arquitectura modular y trazable que permita futuras ampliaciones.
+# 🏦 Proyecto de Gestión Bancaria y Antifraude
 
-• Oracle Database 12c XE.
-• Oracle SQL Developer 24.3.1.
-• PL/SQL.
-• Shell Scripting (Bash).
-• Linux.
-• Git y GitHub (control de versiones y documentación).
+Este proyecto tiene como objetivo el desarrollo de un **entorno de gestión bancaria con módulos antifraude**, simulando las arquitecturas y configuraciones empleadas en entornos financieros profesionales.  
+El sistema está **orientado a Big Data**, aunque se ejecuta en un entorno de pruebas reducido.
 
-El proyecto se divide en las siguientes fases (en construcción):
-1. Configuración principal de base de datos (tablespaces, roles, usuarios y auditorías).
-2. Desarrollo de tablas de datos principales (en desarrollo actual).
+El entorno integra:
+- Gestión de usuarios.
+- Auditoría.
+- Políticas de seguridad.
+- Estructura base para sistemas modularizados con **WLM**, **CDD/KYC** y **AML**.  
 
-Actualmente se encuentra completada la fase de configuración base (tablespaces, roles, usuarios, auditorías y políticas de seguridad). 
-Próximamente se iniciará la fase de modelado de datos y desarrollo de módulos funcionales.
+El propósito es ofrecer una **arquitectura modular, escalable y trazable** que permita futuras ampliaciones.
 
-Cada modificación significativa en el entorno o los scripts será documentada en este README, 
-con versiones progresivas y anotaciones de cambios. 
-El repositorio de GitHub servirá como referencia central de control.
+---
 
+## 🧩 Tecnologías y Herramientas Utilizadas
 
+- **Oracle Database 12c XE**  
+- **Oracle SQL Developer 24.3.1**  
+- **PL/SQL**  
+- **Shell Scripting (Bash)**  
+- **Linux**  
+- **Git y GitHub** (control de versiones y documentación)
 
-ACTUALIZACIONES: 
+---
 
-21-10-2025: Creación de entorno de trabajo (Oracle 12c).
-21-10-2025: Creación de script de configuración de bbdd: 
-	    /sql/config_BBDD.sql
-26-10-2025: Creación de documentación de la síntesis de proyecto y varios:
-	    /Proyecto_Gestion_Bancaria_y_Antifraude.pdf
-	    /sql/docs/config_BBDD.pdf
-		
+## ⚙️ Estructura y Fases del Proyecto
 
+El proyecto se encuentra dividido en distintas fases (en desarrollo):
 
-Autor: Joaquín Manuel Alpañez López
-Rol: Consultor Técnico Especializado en Banca y Antifraude
-Versión del documento: 1.0
-Fecha: Octubre 2025
+1. **Configuración principal de base de datos**  
+   (tablespaces, roles, usuarios y auditorías)
+2. **Desarrollo de tablas de datos principales** *(fase actual)*
+3. **Implementación de módulos antifraude (WLM, CDD/KYC, AML)**
+4. **Integración de scripts en Bash/Linux**
+5. **Optimización para Big Data y entornos distribuidos**
+
+---
+
+## 📊 Estado Actual del Proyecto
+
+- ✅ Fase completada: **Configuración base**
+  - Creación de tablespaces, roles y usuarios.
+  - Activación de auditorías.
+  - Políticas de contraseñas y seguridad.
+- 🚧 En desarrollo: **Modelado de datos** y **estructuración modular**.
+- 🧾 Próximos pasos: Implementar **módulos antifraude** y **conectividad con scripts Linux**.
+
+---
+
+## 🗂️ Documentación del Proyecto
+
+Toda modificación o ampliación del proyecto será documentada en este archivo, así como en los documentos PDF asociados.  
+Cada versión incluirá las rutas de los nuevos ficheros y una descripción de los cambios.
+
+---
+
+## 🕓 Historial de Actualizaciones
+
+| Fecha | Descripción | Archivos afectados |
+|-------|--------------|--------------------|
+| **21-10-2025** | Creación del entorno de trabajo (Oracle 12c XE) | — |
+| **21-10-2025** | Creación del script de configuración de BBDD | `/sql/config_BBDD.sql` |
+| **26-10-2025** | Creación de documentación del proyecto y base de datos | `/Proyecto_Gestion_Bancaria_y_Antifraude.pdf`<br>`/sql/docs/config_BBDD.pdf` |
+
+---
+
+## 👤 Autor
+
+**Joaquín Manuel Alpañez López**  
+*Consultor Técnico Especializado en Banca y Antifraude*  
+
+📄 **Versión del documento:** 1.0  
+📅 **Fecha:** Octubre 2025
+
+---
+
+> 💡 *Este proyecto forma parte de un entorno de desarrollo y pruebas con orientación profesional hacia sistemas bancarios y antifraude basados en NetReveal y tecnologías de análisis de datos.*
+
 
 
