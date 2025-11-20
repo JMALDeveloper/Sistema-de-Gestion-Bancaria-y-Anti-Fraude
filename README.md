@@ -1,5 +1,8 @@
 # 🏦 Proyecto de Gestión Bancaria y Antifraude
 
+> ⚠️ **Estado del proyecto: Pausado indefinidamente**  
+> Actualmente me encuentro ampliando mi formación en nuevas áreas tecnológicas así como desarrollando mas conocimientos para poder dar una perspectiva mas actualizada y optima, por lo que el desarrollo de este proyecto queda detenido hasta nuevo aviso.
+
 Este proyecto tiene como objetivo el desarrollo de un **entorno de gestión bancaria con módulos antifraude**, simulando las arquitecturas y configuraciones empleadas en entornos financieros profesionales.  
 El sistema está **orientado a Big Data**, aunque se ejecuta en un entorno de pruebas reducido.
 
@@ -62,6 +65,7 @@ Cada versión incluirá las rutas de los nuevos ficheros y una descripción de l
 | **21-10-2025** | Creación del entorno de trabajo (Oracle 12c XE) | — |
 | **21-10-2025** | Creación del script de configuración de BBDD | `/sql/config_BBDD.sql` |
 | **26-10-2025** | Creación de documentación del proyecto y base de datos | `/Proyecto_Gestion_Bancaria_y_Antifraude.pdf`<br>`/sql/docs/config_BBDD.pdf` |
+| **20-11-2025** | Proyecto parado de manera indefinida |
 
 ---
 
@@ -71,7 +75,7 @@ Cada versión incluirá las rutas de los nuevos ficheros y una descripción de l
 *Consultor Técnico Especializado en Banca y Antifraude*  
 
 📄 **Versión del documento:** 1.0  
-📅 **Fecha:** Octubre 2025
+📅 **Fecha:** Noviembre 2025
 
 ---
 
